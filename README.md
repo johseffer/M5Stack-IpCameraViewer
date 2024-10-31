@@ -15,7 +15,7 @@ Module has a list of streaming urls and show the video like a carousel. (Hold th
 
 ## Instructions
 
-- Open `main.py` file
+- Open python file according to UIFlow version (UIFlow 1 uses smartconfig to wifi setup)
 - Fill the WIFI settings `WIFI_SSID` and `WIFI_PWD`
 - Fill the images list `images_dict = ["http://45.237.128.165:8088/shot.jpg?rnd=343590",]`
 - Use Xampp or any other PHP host to run the index.php file on localhost
