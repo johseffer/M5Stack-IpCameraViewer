@@ -23,4 +23,12 @@ Module has a list of streaming urls and show the video like a carousel. (Hold th
 - Use UI Flow to upload 404.jpg to the module in `res/img/404.jpg` path
 - Use UI Flow to upload the firmware to the module
 
+## Next steps
+
+- Change to rtsp protocol
+- Use opencv
+- Remove php app dependency
+- scrap directory lising to get camera urls 
+- Add menu
+
 Inpired by https://gainsira.medium.com/building-a-tiny-earth-e1e692d76635
